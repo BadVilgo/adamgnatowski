@@ -43,6 +43,10 @@ header {
     font-size: 2rem;
 }
 
+.nav-bar i, h1{
+    cursor: pointer;
+}
+
 nav ul li a {
     color: #fff;
     text-decoration: none;

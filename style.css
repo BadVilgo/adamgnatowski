@@ -60,7 +60,7 @@ nav ul li {
 }
 
 .menu-whole{
-    display:none ;
+    display:none;
 }
 
 /* Kontenery */
@@ -73,6 +73,7 @@ section {
 .container {
     max-width: 1200px;
     margin: auto;
+    text-align: center;
 }
 .projects, .case-studies {
     display: flex;
